@@ -1,2 +1,2 @@
-Halo dari VERSI A
+﻿Halo dari VERSI A dan B (digabung manual)
 Baris ini cuma ada di branch eksperimen
