@@ -1,3 +1,4 @@
 ﻿Halo dari VERSI A dan B (digabung manual)
 Baris ini cuma ada di branch eksperimen
-hey ini say latihan dengan vscode
+hey ini saya latihan dengan vscode
+cek 1 2 3
