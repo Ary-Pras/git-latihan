@@ -2,3 +2,4 @@
 Baris ini cuma ada di branch eksperimen
 hey ini saya latihan dengan vscode
 cek 1 2 3
+test !@#$%^&*()
